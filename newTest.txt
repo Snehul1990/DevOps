@@ -1,1 +1,2 @@
 This is my first git command.
+AlreADY COMMITTED IN gIT
